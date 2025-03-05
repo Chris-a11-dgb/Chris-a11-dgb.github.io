@@ -1,0 +1,125 @@
+<!DOCTYPE html>  
+<html lang="es">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>christian gibran</title>  
+</head>  
+<body>  
+    <h1>¡Hola! christian gibran</h1>  
+    <p>Me interesa que conozcas mas de mi.</p>  
+</body>  
+</html>  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Mi Página Personal</title>  
+</head>  
+<body>  
+    <h1>¡Hola! Soy christian gibran</h1>  
+    <p>Soy un apasionado de la tecnología y la programación. Actualmente estoy estudiando el bachillerato, lo que me permite adquirir habilidades como desarrollo web, análisis de datos.  También me encanta aprender sobre inteligencia artificial y/o sostenibilidad. Siempre estoy buscando nuevas oportunidades para crecer y mejorar en todas las áreas de mi 
+vida.</p>  
+</body>  
+</html>  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Mi Página Personal</title>  
+</head>  
+<body>  
+    <h1>¡Hola! Soy christian gibran</h1>  
+    <img src=https://ih1.redbubble.net/image.3171694258.1232/raf,750x1000,075,t,101010:01c5ca27c6.jpg alt=imagen negra con un fantasma de color blanco aterrador. width="300" height="200">  
+    <p>Soy un apasionado de la tecnología y la programación. Actualmente estoy estudiando el bachillerato, lo que me permite adquirir habilidades en c desarrollo web, análisis de datos. También me encanta aprender sobre   inteligencia artificial, sostenibilidad, o cualquier otro. Siempre estoy buscando nuevas oportunidades para crecer y mejorar en todas las áreas de mi vida.</p>  
+</body>  
+</html>   
+<head>  
+<title>Mis Habilidades</title>  
+<style>  
+  ul {  
+    list-style-type: square; /* Cambia el tipo de viñeta */  
+    padding-left: 20px; /* Añade espacio a la izquierda */  
+    font-family: sans-serif; /* Cambia la fuente */  
+  }  
+
+  li {  
+    margin-bottom: 5px; /* Añade espacio debajo de cada elemento */  
+    color: #333; /* Cambia el color del texto */  
+  }  
+
+  li strong {  
+    font-weight: bold; /* Hace que el texto dentro de <strong> sea negrita */  
+  }  
+</style>  
+</head>  
+<body>  
+
+<h2>Habilidades Destacadas</h2>  
+
+<ul>  
+  <li><strong>Desarrollo Web:</strong> Experiencia en la creación de sitios web responsivos utilizando HTML, CSS y JavaScript.</li>  
+  <li><strong>Diseño Gráfico:</strong> Creación de logotipos, banners y material visual para marketing digital.</li>  
+  <li><strong>Gestión de Proyectos:</strong> Planificación y ejecución de proyectos, asegurando el cumplimiento de plazos y presupuestos.</li>  
+</ul>  
+
+</body>  
+</html>
+<head>  
+<title>Mi Página Personal</title>  
+<style>  
+  body {  
+    font-family: 'Arial', sans-serif; /* Fuente principal del cuerpo */  
+    background-color: #f4f4f4; /* Color de fondo general */  
+    color: #333; /* Color del texto principal */  
+    margin: 0; /* Elimina márgenes predeterminados del body */  
+    padding: 0;  
+  }  
+
+  h2 
+    color: #0056b3; /* blanco con negro */  
+    text-align: center; /* <style>  
+  h2  
+    text-align: center;  
+    /* Otros estilos para tu encabezado */  
+    
+</style>   */  
+    margin-top: 20px; /* Margen superior del encabezado */  
+  
+
+  ul   
+    list-style-type: disc; /* Tipo de viñeta */  
+    padding-left: 30px; /* Espacio a la izquierda de la lista */  
+    margin-bottom: 20px; /* Margen inferior de la lista */  
+  
+
+  li   
+    margin-bottom: 10px; /* Espacio entre elementos de la lista */  
+   
+
+  li strong   
+    font-weight: bold; /* Texto en negrita */  
+    color: #007bff; /* Color para el texto en negrita */  
+    
+
+  /* Estilo para un contenedor principal (opcional) */  
+  .container {  
+    width: 80%; /* Ancho del contenedor */  
+    margin: auto; /* Centra el contenedor horizontalmente */  
+    background-color: #fff; /* Fondo blanco para el contenido */  
+    padding: 20px; /* Espacio interno alrededor del contenido */  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */  
+  }  
+</style>  
+</head>  
+<body>  
+
+  <div class="container">  
+    <h2>Habilidades Clave</h2>  
+    <ul>  
+      <li><strong>Desarrollo Front-End:</strong> Dominio de HTML, CSS y JavaScript para crear interfaces de usuario interactivas.</li>  
+      <li><strong>Diseño UI/UX:</strong> Creación de experiencias de usuario intuitivas y atractivas.</li>  
+      <li><strong>Gestión de Bases de Datos:</strong> Experiencia con SQL y NoSQL para el manejo eficiente de datos.</li>  
+    </ul>  
+  </div>  
+
+</body>  
+S</html>     
